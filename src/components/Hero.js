@@ -5,6 +5,7 @@ const Hero = () => {
         <div className="hero-content flex-col lg:flex-row">
           <img
             src="https://picsum.photos/200/300"
+            alt="#"
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div>

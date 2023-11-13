@@ -26,26 +26,26 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
+                Home
                 <Link to="/"/>
-                <p>Home</p>
               </li>
               <li>
                 <Link to="/contact" />
-                <p>Contact</p>
+                Contact
               </li>
               <li>
                 <Link to="/about" />
-                <p>About</p>
+                About
               </li>
               <li>
                 <Link to="/projects" />
-                <p>Projects</p>
+                Projects
               </li>
             </ul>
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost normal-case text-xl">
+          <a href className="btn btn-ghost normal-case text-xl">
             Alex Killian Portfolio
           </a>
         </div>

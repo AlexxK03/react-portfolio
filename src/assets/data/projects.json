@@ -1,20 +1,40 @@
 [
     {
-        "title":"",
-        "description":"",
+        "title":"To-Do App",
+        "description":"This is a to do app I created using react. I liked learning about react and how it is used",
         "image":[
             {
-                "caption":"",
-                "path":"",
-                "alt":""
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
             }
         ],
-        "date":"",
+        "date":"2023",
         "tags":[
-
+            "js", "React", "HTML"
         ],
-        "website":"",
+        "website":"https://iadt.ie/",
         "github":""
 
+    },
+
+    {
+        "title":"React Giphy",
+        "description":"A react app made using the Giphy API",
+        "image":[
+            {
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
+            }
+        ],
+        "date":"2023",
+        "tags":[
+            "js", "React", "HTML", "Rest Cient", "API"
+        ],
+        "website":"https://iadt.ie/",
+        "github":"https://github.com/"
+
     }
+    
 ]
