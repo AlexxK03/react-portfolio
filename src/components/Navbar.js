@@ -45,7 +45,7 @@ const Navbar = () => {
           </div>
         </div>
         <div className="navbar-center">
-          <a href className="btn btn-ghost normal-case text-xl">
+          <a className="btn btn-ghost normal-case text-xl">
             Alex Killian Portfolio
           </a>
         </div>

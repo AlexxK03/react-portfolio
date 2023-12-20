@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
         "title":"To-Do App",
         "description":"This is a to do app I created using react. I liked learning about react and how it is used",
         "image":[
@@ -13,12 +14,13 @@
         "tags":[
             "js", "React", "HTML"
         ],
-        "website":"https://iadt.ie/",
-        "github":""
+        "website":"",
+        "github":"https://github.com/AlexxK03/Front-End-Dev"
 
     },
 
     {
+        "id":"2",
         "title":"React Giphy",
         "description":"A react app made using the Giphy API",
         "image":[
@@ -32,9 +34,91 @@
         "tags":[
             "js", "React", "HTML", "Rest Cient", "API"
         ],
-        "website":"https://iadt.ie/",
-        "github":"https://github.com/"
+        "website":"",
+        "github":"https://github.com/AlexxK03/Front-End-Dev"
+
+    },
+    {
+        "id":"3",
+        "title":"Game Development 3D World Builder",
+        "description":"A 3D world made using unity and C#",
+        "image":[
+            {
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
+            }
+        ],
+        "date":"2023",
+        "tags":[
+            "C#", "Unity", "Animation"
+        ],
+        "website":"",
+        "github":"https://github.com/IADT-y3-gameDev/ca1-world-builder-AlexxK03"
+
+    },
+    {
+        "id":"4",
+        "title":"Game Development 3D Platformer",
+        "description":"A 3D platformer made using unity and C#",
+        "image":[
+            {
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
+            }
+        ],
+        "date":"2023",
+        "tags":[
+            "C#", "Unity", "Animation"
+        ],
+        "website":"",
+        "github":"",
+        "downloadBuild":"../../assets/data/AlexCABuild.zip"
+
+    },
+    {
+        "id":"5",
+        "title":"React country API",
+        "description":"An app that shows information about countries and ther local weather",
+        "image":[
+            {
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
+            }
+        ],
+        "date":"2023",
+        "tags":[
+            "react", "JS", "API","HTML"
+        ],
+        "website":"",
+        "github":"https://github.com/AlexxK03/React-Countries",
+        "downloadBuild":""
+
+
+    },
+    {
+        "id":"6",
+        "title":"React colleges API",
+        "description":"An app made using react and a college API",
+        "image":[
+            {
+                "caption":"screenshot of result",
+                "path":"https://picsum.photos/400/200",
+                "alt":"#'"
+            }
+        ],
+        "date":"2023",
+        "tags":[
+            "react", "JS", "API","HTML"
+        ],
+        "website":"",
+        "github":"https://github.com/AlexxK03/react-colleges",
+        "downloadBuild":""
+        
 
     }
+
     
 ]

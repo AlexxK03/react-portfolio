@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 const Hero = () => {
   return (
     <>
@@ -11,9 +12,14 @@ const Hero = () => {
           <div>
             <h1 className="text-5xl font-bold">WELCOME!</h1>
             <p className="py-6">
-              My portfolio is a collection of work I have done over the last three years
+              My portfolio is a collection of work I have done over the last
+              three years
             </p>
             <button className="btn btn-primary">Get Started</button>
+            <button className="btn btn-secondary">
+              <Link to="/projects" />
+              Projects
+            </button>
           </div>
         </div>
       </div>
